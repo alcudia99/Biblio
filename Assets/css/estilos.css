@@ -3,7 +3,7 @@
     perspective: 200px;
     width: 100px;
     height: 40px;
-    box-shadow: 2px 2px 2px black;
+    box-shadow: 2px 2px 2px rgb(236, 18, 18);
     margin: 3px;
 }
 input[type="checkbox"]{
